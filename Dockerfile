@@ -24,7 +24,7 @@ WORKDIR /app
 COPY requirements.txt ./
 COPY web-qa.py ./
 COPY web-qa.ipynb ./
-COPY .env ./
+ENV KEY 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
 
 RUN pip install -r requirements.txt
 # RUN python web-qa.py
