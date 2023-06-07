@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+Research - OpenEXA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OpenEXA
+
+
+
+
+
+
+Home
+
+
+Margin
+
+
+About
+
+
+Team
+
+
+Research
+
+
+Contact
+
+
+
+                  Login
+                  
+
+
+
+
+
+
+
+
+
+
+Research
+
+                      Our team members and advisors have a deep understanding of the complexities of the financial markets, including market trends, investment strategies, risk management and regulations.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tim Leung, Ph.D.
+Read writing from Tim Leung, Ph.D. on Medium. Boeing Endowed Chair Professor of Applied Math, Director of the Computational Finance & Risk Management (CFRM) Program at University of Washington, Seattle.
+
+
+
+Multiscale Analysis & Volatility Asymmetry of Cryptocurrency Prices
+Sep 1, 2022
+
+                  Empirical studies and market observations suggest that asset prices are driven by multiscale factors, ranging from long-term market regimes to rapid fluctuations
+                
+Read More
+
+
+
+Leveraged ETFsâââPrice Dynamics and Options Valuation
+Jun 11, 2022
+
+                  The ETF industry now consists of more than 2,000 funds with well over $4 trillion in assets. Within the ETF universe, some funds are designed to replicate a constant multiple (called leverage ratio) of the daily returns of a reference index. These relatively new financial products are called leveraged ETFs (LETFs).
+                
+Read More
+
+
+
+Examining the Drawdown Risk of Sector ETFsâââ 2022
+Apr 24, 2022
+
+                  A drawdown measures the distance (in %) of the portfolio value from its peak, reflecting its downside risk. If a portfolio had previously reached a peak of $100 and subsequently dropped to $90, then the portfolio experienced a 10% drawdown.
+                
+Read More
+
+
+
+Optimal Execution for High Frequency Trading
+Apr 22, 2022
+
+                  In high-frequency trading, large buy (or sell) orders may cause other traders to raise (or lower) their offered price. This additional implementation cost due to short-term liquidity demand is often called market impact.
+                
+Read More
+
+
+
+Modern Trends in Financial Engineering
+May 17, 2022
+
+                  Modern Trends in Financial Engineering, publishes monographs on important contemporary topics in theory and practice of Financial Engineering.
+                
+Read More
+
+
+
+Stochastic Storage Cost Model for Grains Futures
+Mar 13, 2022
+
+                  The world is experiencing the biggest supply shock to global grains markets in recent history. Prices of various crops, including wheat, soy, and corn, have skyrocketed. Take wheat as an example, the futures prices have jumped to record high in March.
+                
+Read More
+
+
+
+Dynamic Estimation of Stochastic Gold Exposure
+Feb 9, 2022
+
+                  Gold is often viewed as a safe haven asset or a hedge against market turmoil, currency depreciation, and other economic or political events. At the beginning of the COVID pandemic, S&P 500 experienced a sharp drop before returning to pre-COVID level several months later. At the same time, SPDR Gold Shares (GLD) had gained more than 25% from February to August 2020.
+                
+Read More
+
+
+
+Encoding Market View via a Randomized Brownian Bridge
+Nov 3, 2021
+
+                  Trading decisions often depend on the traderâs subjective belief of the distribution of the asset price on a given future date. For example, if a trader anticipates a big price movement for a company stock after its earnings announcement, then perhaps a long straddle position makes sense.
+                
+Read More
+
+
+
+Multiscale Decomposition and Analysis of Sector ETF Price Dynamics
+Oct 19, 2021
+
+                  Asset prices are driven by factors of different timescales, ranging from long-term market regimes to short-term fluctuations, and they often exhibit nonstationary behaviors, such as time-varying volatility and trends.
+                
+Read More
+
+
+
+Dynamic Futures Portfolio in a Regime-Switching Market
+Aug 24, 2021
+
+                  Asset prices are often seen as being dependent on market conditions. Market regimes may change suddenly and persist for a period of time. The unpredictability of the timing of regime changes also means that associated risks are almost impossible to hedge.
+                
+Read More
+
+
+
+Dynamic Futures Portfolio Under a Multifactor Gaussian Framework
+Aug 16, 2021
+
+                  Futures are standardized exchange-traded bilateral contracts of agreement to buy or sell an asset at a pre-determined price at a pre-specified time in the future. At the Chicago Mercantile Exchange (CME), futures trading volume averages over 15 million contracts per day.
+                
+Read More
+
+
+
+Multiscale Financial Signal Processing
+May 8, 2021
+
+                  Market observations and empirical studies have shown that asset prices are often driven by multiscale factors, ranging from long-term economic cycles to rapid fluctuations in the short term. This suggests that financial time series are potentially embedded with different timescales.
+                
+Read More
+
+
+
+Cardinality-Constrained Portfolios: Optimization Approach & Algorithm
+Feb 7, 2021
+
+                  Every portfolio can be partitioned into multiple asset groups defined by asset classes, sectors, styles, and other features. A cardinality-constrained portfolio caps the number of stocks to be traded within each of these groups.
+                
+Read More
+
+
+
+MS Degree in Computational Finance & Risk Management (CFRM)
+Dec 23, 2020
+
+                  The Master of Science in Computational Finance and Risk Management (MS-CFRM), housed within the Applied Math Department at University of Washington â Seattle, addresses the demand in the financial services profession for advanced skills in quantitative analytics and financial data science.
+                
+Read More
+
+
+
+Employee Stock OptionsâââExercise Timing, Hedging, and Valuation
+Nov 14, 2020
+
+                  Book Title: Employee Stock Options Exercise Timing, Hedging, and Valuation
+                
+Read More
+
+
+
+An Optimization Algorithm for Sparse Mean-Reverting Portfolio Selection
+Oct 21, 2020
+
+                  Motivated by the industry practice of pairs trading and long/short equity strategies, we study an approach that combines statistical learning and optimization to construct portfolios.
+                
+Read More
+
+
+
+The Drawdown Risk and Portfolio Concentration of Sector ETFs
+Oct 8, 2020
+
+                  A drawdown measures the distance (in %) of the portfolio value from its peak, reflecting its downside risk. If a portfolio had previously reached a peak of $100 and subsequently dropped to $90, then the portfolio experienced a 10% drawdown.
+                
+Read More
+
+
+More from Tim Leung
+Read More
+
+
+
+
+Barnet Sherman (A Wall Street Insider)
+An impact investor and fund manager, his perspective comes from extensive investment career advising to, and making investments for pensions, mutual funds, insurance companies, family offices, and investment advisors.
+
+
+
+Mispriced Municipal Bonds Cost Mutual Fund Shareholders And Taxpayers Billions Of Dollars
+Dec 5, 2022
+
+                  The municipal bond marketâs lack of trade data and lack of digitized financial data cause mispricing and lost value, costing mutual fund shareholders and taxpayers alike billions of dollars.
+                
+Read More
+
+
+
+Municipal Bonds And ESG: All Hat, No Cattle
+Nov 14, 2022
+
+                  For all of the municipal bond market's bluster about the importance of ESG risk in credit and value, it doesn't show up when it counts the mostâin trade prices.
+                
+Read More
+
+
+
+Relief For The Digital Data-Starved $3.9 Trillion Municipal Bond Market
+Nov 7, 2022
+
+                  The $3.9 trillion municipal bond market has no digital financial data.
+                
+Read More
+
+
+
+Small Muni Issuers See A Potential 620% Windfall For Their Taxpayers
+Oct 27, 2022
+
+                  The Financial Data Transparency Act offers a lottery-sized windfall for small muni issuers by digitizing their financial reporting.
+                
+Read More
+
+
+
+Stocks Versus Gold: Which Is A Better Investment? The Answer May Surprise You
+Nov 9, 2020
+
+                  Gold bugs like to point out that gold has outperformed the S&P 500 over the last 40 years. Not so fast.
+                
+Read More
+
+
+More from Barnet Sherman
+Read More
+
+
+
+
+Philip Bond, Ph.D.
+Edward E. Carlson Distinguished Professor in Business Administration, Finance and Business Economics (Foster School of Business). Notables: Co-editor, Journal of Finance (2016-2022), President, Finance Theory Group (2016-2017)
+
+
+ESG: A panacea for market power?
+With Doron Levit
+
+                  Equilibrium of product/labor markets when firms adopt ESG. And
+                  equilibrium in ESG policies. Focuses on the S part of ESG.
+                
+Read More
+
+
+
+Automation, financial frictions, and the long-run labor
+                      share
+
+With Lukas Kremens
+
+                  Does automation benefit or harm workers? Will complete
+                  automation drive the labor share to zero?
+                
+Read More
+
+
+
+Buying high and selling low: Stock repurchases and persistent asymmetric information
+
+With Hongda Zhong
+
+                  Analyzes a dynamic version of Myers and Majluf's classic model. Equilibria feature repurchases, even though all firms want to raise cash. Some firms strictly profit from the repurchase transaction.
+                
+Read More
+
+
+
+Ordering information content using the quantile
+                      function.
+
+
+                  Lehmann's (1988) information ordering is equivalent to
+                  single-crossing of the quantile function.
+                
+Read More
+
+
+
+The real effects of financial markets
+
+
+                  With Alex Edmans and Itay Goldstein, 2012, volume 4, pages
+                  339-360, Annual Review of Financial Economics.
+                
+
+                  Lehmann's (1988) information ordering is equivalent to
+                  single-crossing of the quantile function.
+                
+Read More
+
+
+
+Predatory mortgage lending
+
+With David Musto and Bilge Yilmaz
+
+                  Predatory lending can arise even in the absence of lender fraud and borrower confusion.
+                
+Read More
+
+
+
+The Labor Market for Bankers and Regulators
+
+With Vincent Glode
+
+                  Who becomes a financial regulator and who becomes a banker?
+                
+Read More
+
+
+
+Contracting in the presence of judicial agency
+
+
+                  Judges have agency conflicts too. How does this affect contracting?
+                
+Read More
+
+
+
+More from Philip Bond
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+On-chain Margin
+
+
+
+
+About Us
+
+
+
+
+Team
+
+
+
+
+Contact Us
+
+
+
+
+
+
+openexa.co
+
+
+
+
+openexa.to
+
+
+
+
+openexa.us
+
+
+
+
+openexa.net
+
+
+
+
+
+
+openexa.io
+
+
+
+
+openexa.ai
+
+
+
+
+openexa.org
+
+
+
+
+openexa.info
+
+
+
+
+
+
+                    1100 NE Campus Parkway, Suite 200 Seattle, WA 98105
+                  
+
+
+
+
+
+
+                Copyright © OpenEXA Inc. 2023
+              
+
+Privacy Policy
+                ·
+                Terms & Conditions
+
+
+
+
+
+
+
+
+
+
